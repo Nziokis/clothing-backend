@@ -44,3 +44,10 @@ This is the backend server for a clothing store application. It provides APIs fo
 - `/api/cartitems`: Endpoint to retrieve cart items.
 - `/api/addtocart`: Endpoint to add items to the cart.
 - `/api/newcollections`: Endpoint to retrieve new collection items.
+
+## admin user
+
+`{ "email":"admin@app.com",
+"name":"admin",
+"password":"password"
+}`
